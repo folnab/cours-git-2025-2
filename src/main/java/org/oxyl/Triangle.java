@@ -17,6 +17,11 @@ public class Triangle implements Figure{
         this.y3 = y3;
     }
 
+    /// smfdjghfdmojg
+    /// sdmgjds
+    /// seoiger
+    /// sdlfjgns
+
     public Triangle() {
         this(0., 0., 0., 1., 0.5, 0.5);
     }

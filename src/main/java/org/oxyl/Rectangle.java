@@ -7,6 +7,9 @@ public class Rectangle {
     private double largeur;
     private double angle;
 
+
+    //seroîtjgporsidjgzsqeroitjezrôit^heatzqroàjezpofez*
+    //ôerijêrjfezrz
     public Rectangle(double centreX, double centreY, double longueur, double largeur, double angle) {
         this.centreX = centreX;
         this.centreY = centreY;
@@ -18,7 +21,7 @@ public class Rectangle {
     public Rectangle() {
         this(0., 0., 1., 1., 0.);
     }
-
+ //fdmkjsgfdsfds
     public Rectangle(Rectangle other) {
         this(other.centreX, other.centreY, other.longueur, other.largeur, other.angle);
     }
