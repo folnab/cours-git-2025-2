@@ -4,6 +4,16 @@ public class Cercle {
     private double centreX;
     private double centreY;
     private double rayon;
+/// osdhfpsqjdhfgljkdsqhgkjdsqfkgfjksqhdpiufdsj*dsfio
+/// sdufghqsdflqksf
+/// sdfjgmlksqjlkgfds
+/// dsqfgpitgrnjgntfrdosiqùlkhj
+/// dsufheri
+/// oifoeihozqùsd
+///
+/// ouqshefjerq
+/// dbfjebqjismf
+/// hbfzbeiqbl
 
     public Cercle(double centreX, double centreY, double rayon) {
         this.centreX = centreX;
