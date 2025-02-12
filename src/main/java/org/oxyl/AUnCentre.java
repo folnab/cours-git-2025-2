@@ -6,6 +6,7 @@ public abstract class AUnCentre implements Figure{
     public AUnCentre(Point centre){
         this.centre=centre;
     }
+    //ça a un centre
 
     public void deplacer(double distanceX, double distanceY) {
         this.centre.deplacer(distanceX, distanceY);
