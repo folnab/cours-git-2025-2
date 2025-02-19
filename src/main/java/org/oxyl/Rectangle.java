@@ -37,6 +37,7 @@ public class Rectangle {
     public void deplacer(double distanceX, double distanceY) {
         centreX += distanceX;
         centreY += distanceY;
+        System.out.println("hijo de puta");
     }
 
     public boolean isCarre() {

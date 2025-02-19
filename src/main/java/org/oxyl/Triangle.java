@@ -37,6 +37,7 @@ public class Triangle implements Figure{
         y1 += distanceY;
         y2 += distanceY;
         y3 += distanceY;
+        System.out.println("va fa enculo")
     }
 
     public void tourner(double thetaDegrees) {
